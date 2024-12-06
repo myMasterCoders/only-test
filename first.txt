@@ -1,4 +1,8 @@
 hello world 1990
 blalllllll
+<<<<<<< HEAD
 
 nuxt developer
+=======
+vue developer
+>>>>>>> 9299d3a23d9d1fb38459d85f4d625babcfa5491a
